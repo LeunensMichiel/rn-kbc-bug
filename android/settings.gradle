@@ -44,7 +44,7 @@ if (getRNMinorVersion() >= 75) {
   }
 }
 
-rootProject.name = 'rnkbcbug'
+rootProject.name = 'rn-kbc-bug'
 
 dependencyResolutionManagement {
   versionCatalogs {

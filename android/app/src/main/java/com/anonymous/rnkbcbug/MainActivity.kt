@@ -1,4 +1,4 @@
-package com.rnkbcbug
+package com.anonymous.rnkbcbug
 
 import android.os.Build
 import android.os.Bundle
